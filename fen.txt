@@ -1,0 +1,10 @@
+rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 [MOVESEP] a2a4
+rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq - 0 1 [MOVESEP] c7c5
+rnbqkbnr/pp1ppppp/8/2p5/P7/8/1PPPPPPP/RNBQKBNR w KQkq - 0 2 [MOVESEP] g2g3
+rnbqkbnr/pp1ppppp/8/2p5/P7/6P1/1PPPPP1P/RNBQKBNR b KQkq - 0 2 [MOVESEP] e7e5
+rnbqkbnr/pp1p1ppp/8/2p1p3/P7/6P1/1PPPPP1P/RNBQKBNR w KQkq - 0 3 [MOVESEP] d2d3
+rnbqkbnr/pp1p1ppp/8/2p1p3/P7/3P2P1/1PP1PP1P/RNBQKBNR b KQkq - 0 3 [MOVESEP] g8f6
+rnbqkb1r/pp1p1ppp/5n2/2p1p3/P7/3P2P1/1PP1PP1P/RNBQKBNR w KQkq - 1 4 [MOVESEP] b1a3
+rnbqkb1r/pp1p1ppp/5n2/2p1p3/P7/N2P2P1/1PP1PP1P/R1BQKBNR b KQkq - 2 4 [MOVESEP] h7h6
+rnbqkb1r/pp1p1pp1/5n1p/2p1p3/P7/N2P2P1/1PP1PP1P/R1BQKBNR w KQkq - 0 5 [MOVESEP] b2b3
+rnbqkb1r/pp1p1pp1/5n1p/2p1p3/P7/NP1P2P1/2P1PP1P/R1BQKBNR b KQkq - 0 5 [MOVESEP] d7d6
